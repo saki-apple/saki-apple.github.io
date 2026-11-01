@@ -1,1 +1,9 @@
+# 告诉 GitHub：我要用博客模式！
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 
+# 网站的基础配置
+title: saki-apple 的日常
+description: 我的个人日常记录
+show_downloads: false
